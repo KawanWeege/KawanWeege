@@ -30,4 +30,5 @@
   <a href="https://www.linkedin.com/in/kawan-weege-62a0a01b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-97ca00?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://www.reddit.com/user/DragonOfWar"><img src="https://img.shields.io/badge/Reddit-97ca00?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href = "https://www.twitch.tv/the_dragonofwar"><img src="https://img.shields.io/badge/Twitch-97ca00?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "https://steamcommunity.com/id/Dragon_Of_War/"><img src="https://img.shields.io/badge/Steam-97ca00?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
