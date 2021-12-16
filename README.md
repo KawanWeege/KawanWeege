@@ -25,6 +25,7 @@
   
 <div>
   <a href = "https://twitter.com/Dragon_Of_War"><img src="https://img.shields.io/badge/Twitter-97ca00?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "https://discordapp.com/users/265672866115223556"><img src="https://img.shields.io/badge/Discord-97ca00?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:therealdragonofwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-97ca00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kawan-weege-62a0a01b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-97ca00?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://www.reddit.com/user/DragonOfWar"><img src="https://img.shields.io/badge/Reddit-97ca00?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
