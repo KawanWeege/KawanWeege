@@ -1,4 +1,4 @@
-### Hello, I'm Kawan Weege (also known as DragonOfWar), and I think I know how to program
+### Hello, I'm Kawan Weege (also known as DragonOfWar)
  - 🏫 IFC Computer Technicion integrated into High School Graduate
  - 🏫 UDESC CCT CS Student
 
