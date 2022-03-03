@@ -9,7 +9,20 @@
 </div>
 
 ##
-  
+
+#### My Projects
+ 
+ * [ScafL - Steam Card Afk Farm for Linux](https://github.com/DragonOfWar/scafl)
+ * [editenc.sh](https://github.com/DragonOfWar/editenc.sh)
+ * [conwaysgameoflife.c](https://github.com/DragonOfWar/conwaysgameoflife.c)
+
+#### Game jams I participated
+ 
+ * 2Sneaky4U (PB GameJam 4) - [GitHub Repo](https://github.com/Patogonia/pb_gamejam_4) - [Game Page](https://coffescript.itch.io/2sneaky4u)
+ * Em Busca do Nirvana (GameJaaj 6) - [GitHub Repo](https://github.com/DragonOfWar/gamejaaj6) - [Game Page](https://colmeia.itch.io/em-busca-do-nirvana)
+ * *Unnamed Game* (GMTK GameJam 2021) - [GitHub Repo](https://github.com/Patogonia/gmtk-gamejam)
+ 
+##
   
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=green"/>
