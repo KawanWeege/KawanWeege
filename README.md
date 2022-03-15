@@ -1,6 +1,6 @@
 ### Hello, I'm Kawan Weege (also known as DragonOfWar)
- - 🏫 IFC Computer Technicion integrated into High School Graduate
- - 🏫 UDESC CCT CS Student
+ - 🏫 IFC - Computer Technicion
+ - 🏫 UDESC CCT - CS Student
 
 <div align="center">
   <a href="https://github.com/DragonOfWar">
