@@ -4,9 +4,11 @@
 
 <div align="center">
   <a href="https://github.com/Dwahgon">
+  <img height="160em" align="left" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/47753585?v=4"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dwahgon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwahgon&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
 
 ##
 
