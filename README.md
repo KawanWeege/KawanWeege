@@ -1,25 +1,25 @@
-### Hello, I'm Kawan Weege (also known as DragonOfWar)
+### Hello, I'm Kawan Weege (also known as Dwahgon)
  - 🏫 IFC - Computer Technicion
  - 🏫 UDESC CCT - CS Student
 
 <div align="center">
-  <a href="https://github.com/DragonOfWar">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DragonOfWar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonOfWar&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Dwahgon">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dwahgon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwahgon&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
 
 #### My Projects
  
- * [ScafL - Steam Card Afk Farm for Linux](https://github.com/DragonOfWar/scafl)
- * [editenc.sh](https://github.com/DragonOfWar/editenc.sh)
- * [conwaysgameoflife.c](https://github.com/DragonOfWar/conwaysgameoflife.c)
+ * [ScafL - Steam Card Afk Farm for Linux](https://github.com/Dwahgon/scafl)
+ * [editenc.sh](https://github.com/Dwahgon/editenc.sh)
+ * [conwaysgameoflife.c](https://github.com/Dwahgon/conwaysgameoflife.c)
 
 #### Game jams I participated
  
  * 2Sneaky4U (PB GameJam 4) - [GitHub Repo](https://github.com/Patogonia/pb_gamejam_4) - [Game Page](https://coffescript.itch.io/2sneaky4u)
- * Em Busca do Nirvana (GameJaaj 6) - [GitHub Repo](https://github.com/DragonOfWar/gamejaaj6) - [Game Page](https://colmeia.itch.io/em-busca-do-nirvana)
+ * Em Busca do Nirvana (GameJaaj 6) - [GitHub Repo](https://github.com/Dwahgon/gamejaaj6) - [Game Page](https://colmeia.itch.io/em-busca-do-nirvana)
  * *Unnamed Game* (GMTK GameJam 2021) - [GitHub Repo](https://github.com/Patogonia/gmtk-gamejam)
  
 ##
@@ -38,11 +38,11 @@
   
 <div>
  <a href = "https://www.paypal.com/donate/?hosted_button_id=TSARHWQFKSEBA"><img src="https://img.shields.io/badge/Paypal-97ca00?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/Dragon_Of_War"><img src="https://img.shields.io/badge/Twitter-97ca00?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/the_dwahgon"><img src="https://img.shields.io/badge/Twitter-97ca00?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href = "https://discordapp.com/users/265672866115223556"><img src="https://img.shields.io/badge/Discord-97ca00?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:therealdragonofwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-97ca00?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kawan-weege-62a0a01b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-97ca00?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "https://www.reddit.com/user/DragonOfWar"><img src="https://img.shields.io/badge/Reddit-97ca00?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href = "https://www.twitch.tv/the_dragonofwar"><img src="https://img.shields.io/badge/Twitch-97ca00?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "https://steamcommunity.com/id/Dragon_Of_War/"><img src="https://img.shields.io/badge/Steam-97ca00?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href = "https://steamcommunity.com/id/Dwahgon/"><img src="https://img.shields.io/badge/Steam-97ca00?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
