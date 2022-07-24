@@ -1,18 +1,18 @@
+<div align="center">
+<img height="300em" src="https://user-images.githubusercontent.com/47753585/180626931-7b02b93b-16a6-4382-a959-1e6d0a98bf5c.png"/>
+</div>
+
+
+
+
 ### Hello, I'm Kawan Weege (also known as Dwahgon)
  - 🏫 IFC - Computer Technicion
  - 🏫 UDESC CCT - CS Student
+ 
 
-<div align="center">
-  <a href="https://github.com/Dwahgon">
-  <div align="left">
-   <img height="160em" align="left" style="border-radius:50%" src="https://avatars.githubusercontent.com/u/47753585?v=4"/>
-  </div>
-  <div align="right">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dwahgon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwahgon&layout=compact&langs_count=7&theme=dark"/>
-   </div>
-</div>
-
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Dwahgon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwahgon&layout=compact&langs_count=7&theme=dark"/>
+<br clear="left"/>
 
 ##
 
