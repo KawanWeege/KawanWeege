@@ -1,6 +1,6 @@
-<div align="center">
+<a href="https://github.com/Dwahgon" align="center">
 <img height="300em" src="https://user-images.githubusercontent.com/47753585/180626931-7b02b93b-16a6-4382-a959-1e6d0a98bf5c.png"/>
-</div>
+</a>
 
 
 
@@ -8,10 +8,13 @@
 ### Hello, I'm Kawan Weege (also known as Dwahgon)
  - 🏫 IFC - Computer Technicion
  - 🏫 UDESC CCT - CS Student
- 
 
+##
+
+<a href="https://github.com/Dwahgon">
 <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Dwahgon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwahgon&layout=compact&langs_count=7&theme=dark"/>
+</a>
 <br clear="left"/>
 
 ##
@@ -30,7 +33,7 @@
  
 ##
   
-<div style="display: inline_block"><br>
+<a href="https://github.com/Dwahgon" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=green"/>
@@ -38,7 +41,7 @@
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=green"/>
-</div>
+</a>
   
 ##
   
