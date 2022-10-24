@@ -27,10 +27,10 @@
 
 #### Game jams I participated
 
- * Fauna em Foco (1ª Game Jam Larva) - 1st place on the category "Serious Objective" - [GitHub Repo](https://github.com/ColmeiaUDESC/fauna-em-foco) - [Game Page](https://dwahgon.itch.io/fauna-em-foco)
- * 2Sneaky4U (PB GameJam 4) - [GitHub Repo](https://github.com/Patogonia/pb_gamejam_4) - [Game Page](https://coffescript.itch.io/2sneaky4u)
- * Em Busca do Nirvana (GameJaaj 6) - [GitHub Repo](https://github.com/ColmeiaUDESC/gamejaaj6) - [Game Page](https://colmeia.itch.io/em-busca-do-nirvana)
- * *Unnamed Game* (GMTK GameJam 2021) - [GitHub Repo](https://github.com/Patogonia/gmtk-gamejam)
+ * Fauna em Foco ([1ª Game Jam Larva](https://itch.io/jam/1-game-jam-larva)) - 1st place on the category "Serious Objective" - [GitHub Repo](https://github.com/ColmeiaUDESC/fauna-em-foco) - [Game Page](https://dwahgon.itch.io/fauna-em-foco)
+ * 2Sneaky4U ([PB GameJam 4](https://itch.io/jam/pb-game-jam-4)) - [GitHub Repo](https://github.com/Patogonia/pb_gamejam_4) - [Game Page](https://coffescript.itch.io/2sneaky4u)
+ * Em Busca do Nirvana ([GameJaaj 6](https://itch.io/jam/game-jaaj-6)) - [GitHub Repo](https://github.com/ColmeiaUDESC/gamejaaj6) - [Game Page](https://colmeia.itch.io/em-busca-do-nirvana)
+ * *Unnamed Game* ([GMTK GameJam 2021](https://itch.io/jam/gmtk-2021)) - [GitHub Repo](https://github.com/Patogonia/gmtk-gamejam)
  
 ##
   
