@@ -26,10 +26,10 @@
  * [conwaysgameoflife.c](https://github.com/Dwahgon/conwaysgameoflife.c)
 
 #### Game jams I participated
- 
+
+ * Fauna em Foco (1ª Game Jam Larva) - 1st place on the category "Serious Objective" - [GitHub Repo](https://github.com/ColmeiaUDESC/fauna-em-foco) - [Game Page](https://dwahgon.itch.io/fauna-em-foco)
  * 2Sneaky4U (PB GameJam 4) - [GitHub Repo](https://github.com/Patogonia/pb_gamejam_4) - [Game Page](https://coffescript.itch.io/2sneaky4u)
  * Em Busca do Nirvana (GameJaaj 6) - [GitHub Repo](https://github.com/ColmeiaUDESC/gamejaaj6) - [Game Page](https://colmeia.itch.io/em-busca-do-nirvana)
- * Fauna em Foco (1ª Game Jam Larva) - [GitHub Repo](https://github.com/ColmeiaUDESC/fauna-em-foco) - [Game Page](https://dwahgon.itch.io/fauna-em-foco)
  * *Unnamed Game* (GMTK GameJam 2021) - [GitHub Repo](https://github.com/Patogonia/gmtk-gamejam)
  
 ##
