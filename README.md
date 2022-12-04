@@ -8,6 +8,7 @@
 ### Hello, I'm Kawan Weege (also known as Dwahgon)
  - 🏫 IFC - Computer Technicion
  - 🏫 UDESC CCT - CS Student
+ - ❤️ <a href="https://github.com/taiyihanle">taiyihanle</a>
 
 ##
 
