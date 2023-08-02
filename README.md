@@ -6,8 +6,11 @@
 
 
 ### Hello, I'm Kawan Weege (also known as Dwahgon)
+ - 💡 I consider myself a generalist. I like to do whatever that envolves coding.
+ - 🔧 Fullstack Developer
+ - 💼 Currently taking a scholarship at Routech.
  - 🏫 IFC - Computer Technicion
- - 🏫 UDESC CCT - CS Student
+ - 🏫 UDESC CCT - CS Undergraduate
  - ❤️ <a href="https://github.com/taiyihanle">taiyihanle</a>
 
 ##
@@ -42,7 +45,12 @@
   <img src="https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=green"/>
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/Code-JS-informational?style=flat&logo=javascript&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/Code-TS-informational?style=flat&logo=typescript&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/Framework-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/Database-Postgresql-informational?style=flat&logo=postgresql&logoColor=white&color=green"/>
 </a>
   
 ##
