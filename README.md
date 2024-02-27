@@ -12,7 +12,6 @@
  - 💼 Currently taking a scholarship at Routech.
  - 🏫 IFC - Computer Technicion
  - 🏫 UDESC CCT - CS Undergraduate
- - ❤️ <a href="https://github.com/taiyihanle">taiyihanle</a>
 
 ##
 
