@@ -39,7 +39,7 @@
 ##
   
 <a href="https://github.com/Dwahgon" style="display: inline_block"><br>
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=green"/>
+  <img src="https://img.shields.io/badge/OS-Fedora_Linux-informational?style=flat&logo=fedora&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Engine-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=green"/>
