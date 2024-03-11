@@ -9,7 +9,7 @@
  - 💡 I consider myself a generalist. I like to do whatever that envolves coding.
  - 🔧 Fullstack Developer
  - 🎮 Hobbyist Game Developer
- - 💼 Currently taking a scholarship at Routech.
+ - 💼 Currently taking an internship at Routech.
  - 🏫 IFC - Computer Technicion
  - 🏫 UDESC CCT - CS Undergraduate
 
