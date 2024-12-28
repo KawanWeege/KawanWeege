@@ -11,7 +11,7 @@
  - 🎮 Hobbyist Game Developer
  - 💼 Currently taking an internship at Routech.
  - 🏫 IFC - Computer Technicion
- - 🏫 UDESC CCT - CS Undergraduate
+ - 🏫 UDESC CCT - CS Bachelor
 
 ##
 
