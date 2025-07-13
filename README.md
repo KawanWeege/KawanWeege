@@ -1,11 +1,4 @@
-<a href="https://github.com/Dwahgon" align="center">
-<img src="https://user-images.githubusercontent.com/47753585/180626931-7b02b93b-16a6-4382-a959-1e6d0a98bf5c.png"/>
-</a>
-
-
-
-
-### Hello, I'm Kawan Weege (also known as Dwahgon)
+### Hello, I'm Kawan Weege
  - 💡 I consider myself a generalist. I like to do whatever that envolves coding.
  - 🔧 Fullstack Developer
  - 🎮 Hobbyist Game Developer
@@ -15,9 +8,9 @@
 
 ##
 
-<a href="https://github.com/Dwahgon">
-<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=Dwahgon&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwahgon&layout=compact&langs_count=7&theme=dark"/>
+<a href="https://github.com/KawanWeege">
+<img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=KawanWeege&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawanWeege&layout=compact&langs_count=7&theme=dark"/>
 </a>
 <br clear="both"/>
 
@@ -25,9 +18,9 @@
 
 #### My Projects
  
- * [ScafL - Steam Card Afk Farm for Linux](https://github.com/Dwahgon/scafl)
- * [editenc.sh](https://github.com/Dwahgon/editenc.sh)
- * [conwaysgameoflife.c](https://github.com/Dwahgon/conwaysgameoflife.c)
+ * [ScafL - Steam Card Afk Farm for Linux](https://github.com/KawanWeege/scafl)
+ * [editenc.sh](https://github.com/KawanWeege/editenc.sh)
+ * [conwaysgameoflife.c](https://github.com/KawanWeege/conwaysgameoflife.c)
 
 #### Game jams I participated
 
@@ -38,7 +31,7 @@
  
 ##
   
-<a href="https://github.com/Dwahgon" style="display: inline_block"><br>
+<a href="https://github.com/KawanWeege" style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/OS-Fedora_Linux-informational?style=flat&logo=fedora&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=green"/>
   <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=green"/>
